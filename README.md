@@ -1,5 +1,7 @@
 # Landingpage
 
+## Trying to Style a website while only using plain CSS
+
 ## Assignments
 
 1. Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts)
